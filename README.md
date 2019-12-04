@@ -75,7 +75,7 @@ Vamos criar um arquivo de serviço para o nosso programa. Crie como root um arqu
 # vim /lib/systemd/system/ftphoneyd.service
 ```
 
-{% code title="@ ftphoney.service" %}
+{% code title="@ ftphoneyd.service" %}
 ```text
 [Unit]
 Description=FTP
