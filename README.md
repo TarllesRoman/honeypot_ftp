@@ -9,7 +9,7 @@ description: >-
 
 Acesse esse relatório em: [https://tarllesrs.gitbook.io/honey-ftp-on-centos7/](https://tarllesrs.gitbook.io/honey-ftp-on-centos7/)
 
-Para executar o honeypot disponível em: [https://github.com/TarllesRoman/honeypot\_ftp](https://github.com/TarllesRoman/honeypot_ftp) tenha disponivel o python 2.7 em sua máquina juntamente com o python 3.6. Um breve tutorial de instalaçao dessas duas ferramentas encontra-se logo em seguida.
+Para executar o honeypot disponível em: [https://github.com/TarllesRoman/honeypot\_ftp](https://github.com/TarllesRoman/honeypot_ftp) tenha disponivel o Python 2.7 em sua máquina juntamente com a biblioteca Twisted. Um breve tutorial de instalaçao dessas duas ferramentas encontra-se logo em seguida.
 
 #### Configurando o Python no CentOS
 
