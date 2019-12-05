@@ -7,6 +7,8 @@ description: >-
 
 # Honeypot FTP no CentOS 7
 
+Acesse esse relatório em: [https://tarllesrs.gitbook.io/honey-ftp-on-centos7/](https://tarllesrs.gitbook.io/honey-ftp-on-centos7/)
+
 Para executar o honeypot disponível em: [https://github.com/TarllesRoman/honeypot\_ftp](https://github.com/TarllesRoman/honeypot_ftp) tenha disponivel o python 2.7 em sua máquina juntamente com o python 3.6. Um breve tutorial de instalçao dessas duas ferramentas encontra-se logo em seguida.
 
 #### Configurando o Python no CentOS
