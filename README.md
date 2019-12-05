@@ -102,3 +102,7 @@ Após isso bastar executar os comandos abaixo para iniciar e habilitar seu honey
 # systemctl enable ftphoneyd
 ```
 
+#### Referências
+
+[https://github.com/alexbredo/honeypot-ftp/blob/master/ftp.py](https://github.com/alexbredo/honeypot-ftp/blob/master/ftp.py)
+
